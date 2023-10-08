@@ -1,4 +1,4 @@
-# recipes
+# Recipes-Website
 Odin HTML foundation project - Recipes Website
 
 Site: https://numbers0689.github.io/recipes/

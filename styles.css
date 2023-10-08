@@ -1,0 +1,35 @@
+body {
+    background-color: #28282B;
+    color: #E6E6FA;
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 56px;
+    font-weight: 800;
+    background-color: #DAF7A6;
+    color: #301934;
+}
+
+h2 {
+    color: white;
+}
+h2,
+li {
+    text-align: left;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+a {
+    font-size: 24px;
+    color: #33B3FF;
+}
+
+.disc {
+    text-align: center;
+}
