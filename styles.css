@@ -4,6 +4,7 @@ body {
     text-align: center;
     font-family: Georgia, serif;
     font-size: 20px;
+    margin: 0;
 }
 
 .center {
@@ -51,4 +52,8 @@ a {
     border: 3px solid #3C3659;
     border-radius: 15px;
     background-color: #221F33;
+}
+
+img {
+    border-radius: 15px;
 }
