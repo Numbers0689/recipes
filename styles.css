@@ -1,21 +1,29 @@
 body {
-    background-color: #28282B;
+    background-color: #1C1F21;
     color: #E6E6FA;
     text-align: center;
     font-family: Georgia, serif;
     font-size: 20px;
 }
 
+.center {
+    width: 800px;
+    margin: 0 auto;
+}
+
 h1 {
     font-size: 56px;
     font-weight: 800;
-    background-color: #DAF7A6;
-    color: #301934;
+    background-color: #DC3318;
+    color: #F6F7EB;
+    padding: 36px;
+    margin-top: 0px;
 }
 
 h2 {
-    color: white;
+    color: #F6F7EB;
 }
+
 h2,
 li {
     text-align: left;
@@ -25,6 +33,10 @@ h2 {
     font-size: 36px;
 }
 
+li {
+    padding: 8px;
+}
+
 a {
     font-size: 24px;
     color: #33B3FF;
@@ -32,4 +44,11 @@ a {
 
 .disc {
     text-align: center;
+}
+
+.bordered {
+    display: block;
+    border: 3px solid #3C3659;
+    border-radius: 15px;
+    background-color: #221F33;
 }
